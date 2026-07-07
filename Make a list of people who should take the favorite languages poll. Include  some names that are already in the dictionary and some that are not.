@@ -4,9 +4,7 @@ favorite_languages = {
     'edward': 'ruby',
     'phil': 'python'
 }
-
 people_to_poll = ['jen', 'sarah', 'edward', 'phil', 'mike', 'emily']
-
 print("The following people should take the favorite languages poll:")
 for person in people_to_poll:
     print(person.title())
